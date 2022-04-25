@@ -19,7 +19,7 @@ limitations under the License.
 package v1
 
 import (
-	v1 "crdsample/pkg/apis/test/v1"
+	v1 "github.com/upuuuuuu/test/pkg/apis/test/v1"
 
 	"k8s.io/apimachinery/pkg/api/errors"
 	"k8s.io/apimachinery/pkg/labels"

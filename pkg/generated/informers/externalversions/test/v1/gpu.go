@@ -20,10 +20,10 @@ package v1
 
 import (
 	"context"
-	testv1 "crdsample/pkg/apis/test/v1"
-	versioned "crdsample/pkg/generated/clientset/versioned"
-	internalinterfaces "crdsample/pkg/generated/informers/externalversions/internalinterfaces"
-	v1 "crdsample/pkg/generated/listers/test/v1"
+	testv1 "github.com/upuuuuuu/test/pkg/apis/test/v1"
+	versioned "github.com/upuuuuuu/test/pkg/generated/clientset/versioned"
+	internalinterfaces "github.com/upuuuuuu/test/pkg/generated/informers/externalversions/internalinterfaces"
+	v1 "github.com/upuuuuuu/test/pkg/generated/listers/test/v1"
 	time "time"
 
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

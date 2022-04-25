@@ -19,9 +19,9 @@ limitations under the License.
 package fake
 
 import (
-	clientset "crdsample/pkg/generated/clientset/versioned"
-	testv1 "crdsample/pkg/generated/clientset/versioned/typed/test/v1"
-	faketestv1 "crdsample/pkg/generated/clientset/versioned/typed/test/v1/fake"
+	clientset "github.com/upuuuuuu/test/pkg/generated/clientset/versioned"
+	testv1 "github.com/upuuuuuu/test/pkg/generated/clientset/versioned/typed/test/v1"
+	faketestv1 "github.com/upuuuuuu/test/pkg/generated/clientset/versioned/typed/test/v1/fake"
 
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/watch"

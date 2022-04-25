@@ -19,7 +19,7 @@ limitations under the License.
 package externalversions
 
 import (
-	v1 "crdsample/pkg/apis/test/v1"
+	v1 "github.com/upuuuuuu/test/pkg/apis/test/v1"
 	"fmt"
 
 	schema "k8s.io/apimachinery/pkg/runtime/schema"

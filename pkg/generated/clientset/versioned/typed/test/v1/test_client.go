@@ -19,8 +19,8 @@ limitations under the License.
 package v1
 
 import (
-	v1 "crdsample/pkg/apis/test/v1"
-	"crdsample/pkg/generated/clientset/versioned/scheme"
+	v1 "github.com/upuuuuuu/test/pkg/apis/test/v1"
+	"github.com/upuuuuuu/test/pkg/generated/clientset/versioned/scheme"
 	"net/http"
 
 	rest "k8s.io/client-go/rest"

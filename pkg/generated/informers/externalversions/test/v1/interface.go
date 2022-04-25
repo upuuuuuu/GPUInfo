@@ -19,7 +19,7 @@ limitations under the License.
 package v1
 
 import (
-	internalinterfaces "crdsample/pkg/generated/informers/externalversions/internalinterfaces"
+	internalinterfaces "github.com/upuuuuuu/test/pkg/generated/informers/externalversions/internalinterfaces"
 )
 
 // Interface provides access to all the informers in this group version.

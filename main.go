@@ -4,9 +4,9 @@ import (
 	"log"
 	"time"
 
-	controller "crdsample/pkg/controller"
-	clientset "crdsample/pkg/generated/clientset/versioned"
-	informers "crdsample/pkg/generated/informers/externalversions"
+	controller "github.com/upuuuuuu/test/pkg/controller"
+	clientset "github.com/upuuuuuu/test/pkg/generated/clientset/versioned"
+	informers "github.com/upuuuuuu/test/pkg/generated/informers/externalversions"
 
 	"k8s.io/client-go/rest"
 	"k8s.io/client-go/tools/clientcmd"

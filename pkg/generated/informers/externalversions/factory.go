@@ -19,9 +19,9 @@ limitations under the License.
 package externalversions
 
 import (
-	versioned "crdsample/pkg/generated/clientset/versioned"
-	internalinterfaces "crdsample/pkg/generated/informers/externalversions/internalinterfaces"
-	test "crdsample/pkg/generated/informers/externalversions/test"
+	versioned "github.com/upuuuuuu/test/pkg/generated/clientset/versioned"
+	internalinterfaces "github.com/upuuuuuu/test/pkg/generated/informers/externalversions/internalinterfaces"
+	test "github.com/upuuuuuu/test/pkg/generated/informers/externalversions/test"
 	reflect "reflect"
 	sync "sync"
 	time "time"

@@ -2,8 +2,9 @@ package main
 
 import (
 	"context"
-	clientset "crdsample/pkg/generated/clientset/versioned"
 	"fmt"
+
+	clientset "github.com/upuuuuuu/test/pkg/generated/clientset/versioned"
 
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/client-go/tools/cache"

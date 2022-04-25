@@ -14,10 +14,10 @@ import (
 	"k8s.io/client-go/tools/cache"
 	"k8s.io/client-go/util/workqueue"
 
-	Gpuv1 "crdsample/pkg/apis/test/v1"
-	clientset "crdsample/pkg/generated/clientset/versioned"
-	informerv1 "crdsample/pkg/generated/informers/externalversions/test/v1"
-	listerv1 "crdsample/pkg/generated/listers/test/v1"
+	Gpuv1 "github.com/upuuuuuu/test/pkg/apis/test/v1"
+	clientset "github.com/upuuuuuu/test/pkg/generated/clientset/versioned"
+	informerv1 "github.com/upuuuuuu/test/pkg/generated/informers/externalversions/test/v1"
+	listerv1 "github.com/upuuuuuu/test/pkg/generated/listers/test/v1"
 
 	"github.com/NVIDIA/gpu-monitoring-tools/bindings/go/nvml"
 )

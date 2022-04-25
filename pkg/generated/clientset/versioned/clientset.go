@@ -19,7 +19,7 @@ limitations under the License.
 package versioned
 
 import (
-	testv1 "crdsample/pkg/generated/clientset/versioned/typed/test/v1"
+	testv1 "github.com/upuuuuuu/test/pkg/generated/clientset/versioned/typed/test/v1"
 	"fmt"
 	"net/http"
 
