@@ -1,0 +1,8 @@
+apiVersion: test.com/v1
+kind: Gpu
+metadata:
+  name: example-gpu
+spec:
+  deploymentName: example-gpu
+  replicas: 1
+  memory: 1024
