@@ -19,7 +19,7 @@ limitations under the License.
 package internalinterfaces
 
 import (
-	versioned "github.com/upuuuuuu/test/pkg/generated/clientset/versioned"
+	versioned "github.com/upuuuuuu/gpuinfo/pkg/generated/clientset/versioned"
 	time "time"
 
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"

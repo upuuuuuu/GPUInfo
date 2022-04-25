@@ -20,8 +20,8 @@ package v1
 
 import (
 	"context"
-	v1 "github.com/upuuuuuu/test/pkg/apis/test/v1"
-	scheme "github.com/upuuuuuu/test/pkg/generated/clientset/versioned/scheme"
+	v1 "github.com/upuuuuuu/gpuinfo/pkg/apis/test/v1"
+	scheme "github.com/upuuuuuu/gpuinfo/pkg/generated/clientset/versioned/scheme"
 	"time"
 
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

@@ -1,4 +1,4 @@
-module github.com/upuuuuuu/test
+module github.com/upuuuuuu/gpuinfo
 
 go 1.18
 

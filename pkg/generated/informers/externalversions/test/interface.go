@@ -19,8 +19,8 @@ limitations under the License.
 package test
 
 import (
-	internalinterfaces "github.com/upuuuuuu/test/pkg/generated/informers/externalversions/internalinterfaces"
-	v1 "github.com/upuuuuuu/test/pkg/generated/informers/externalversions/test/v1"
+	internalinterfaces "github.com/upuuuuuu/gpuinfo/pkg/generated/informers/externalversions/internalinterfaces"
+	v1 "github.com/upuuuuuu/gpuinfo/pkg/generated/informers/externalversions/test/v1"
 )
 
 // Interface provides access to each of this group's versions.

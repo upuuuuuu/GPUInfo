@@ -20,7 +20,7 @@ package fake
 
 import (
 	"context"
-	testv1 "github.com/upuuuuuu/test/pkg/apis/test/v1"
+	testv1 "github.com/upuuuuuu/gpuinfo/pkg/apis/test/v1"
 
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	labels "k8s.io/apimachinery/pkg/labels"

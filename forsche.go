@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	clientset "github.com/upuuuuuu/test/pkg/generated/clientset/versioned"
+	clientset "github.com/upuuuuuu/gpuinfo/pkg/generated/clientset/versioned"
 
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/client-go/tools/cache"
