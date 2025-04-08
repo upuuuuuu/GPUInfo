@@ -1,2 +1,2 @@
-# GpuInfo: A simple Kubernetes GPU monitoring plugin
+# GpuInfo: A simple Kubernetes GPU monitoring plugin.
 
